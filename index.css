@@ -11,10 +11,6 @@
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
 
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
@@ -39,3 +35,15 @@
 @import url(../blocks/footer/__columns/footer__column-heading.css);
 @import url(../blocks/footer/__columns/footer__column-link.css);
 @import url(../blocks/footer/__social/footer__social-icons.css);
+
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
+@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
+@import url(../blocks/footer/__columns/_content/footer__column_content_copyright.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+@import url(../blocks/footer/__columns/_content/footer__column_content_about.css);
+@import url(../blocks/footer/__columns/_content/footer__column_content_social.css);
