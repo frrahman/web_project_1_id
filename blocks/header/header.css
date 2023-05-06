@@ -5,6 +5,6 @@
   position: relative;
   background-color: #f2f2f2;
   display: flex;
-
+  overflow: hidden;
   /* parameters for the header section */
 }

@@ -5,4 +5,6 @@
   position: absolute;
   right: 0;
   top: 64px;
+  rotate: -15deg;
+  animation: rotate 20s linear infinite;
 }
